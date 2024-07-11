@@ -46,3 +46,15 @@
   height: 100px;
   border-radius:50%;
 }
+
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.input-name-filter {
+  padding:20px;
+  font-size: large;
+  width:400px;
+}
