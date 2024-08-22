@@ -10,3 +10,6 @@ This React app shows a list of games.
 
 ## High level solution design
 ![image](https://github.com/user-attachments/assets/602d6e84-f7a2-48da-834f-e8afc61236c0)
+
+## Steps to Deploy React App to AWS CloudFront + S3 using GitHub Actions
+![image](https://github.com/user-attachments/assets/7147956c-ce65-43d1-b537-9a7ff9e5341f)
